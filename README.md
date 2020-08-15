@@ -57,7 +57,6 @@
 ---
 
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ersanyamarya&layout=compact&hide=Roff)](https://github.com/ersanyamarya/github-readme-stats)
 
