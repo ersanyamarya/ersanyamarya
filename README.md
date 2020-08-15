@@ -112,7 +112,7 @@ What you need to know about MQTIZER III - The free MQTT Client.
 
 [![Top Langs](https://github-readme-stats.ersanyamarya.vercel.app/api/top-langs/?username=ersanyamarya&layout=compact&hide=Roff)](https://github.com/ersanyamarya/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.ersanyamarya.vercel.app/api?username=ersanyamarya&count_private=true&show_icons=true)](https://github.com/ersanyamarya/github-readme-stats)
+[![Sanyam's github stats](https://github-readme-stats.ersanyamarya.vercel.app/api?username=ersanyamarya&count_private=true&show_icons=true)]()
 
 ---
 
