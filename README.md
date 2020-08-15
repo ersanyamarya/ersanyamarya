@@ -78,13 +78,12 @@ What you need to know about MQTIZER III - The free MQTT Client.
 ### [<img align="left" alt="ersanyamarya | YouTube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube] =>
 
 <!-- YOUTUBE:START -->
-
 - [VARIEGATION (IoT Based Home Automation System)](https://www.youtube.com/watch?v=aqu7Mfoba6Q)
 - [Standup Beatboxing and Fluteboxing - Sanyam Arya](https://www.youtube.com/watch?v=AGMojRdbJoQ)
 - [IR Remote Decoding with ARDUINO UNO](https://www.youtube.com/watch?v=29WJQADjh-o)
 - [Proximity Sensor (IR Photo Diode)](https://www.youtube.com/watch?v=wrP8w-Dmq_Y)
 - [Digital Combination Code Lock (Da Vinci's Cryptix)](https://www.youtube.com/watch?v=gE742w42ipk)
-  <!-- YOUTUBE:END -->
+<!-- YOUTUBE:END -->
 
 <br />
 
