@@ -1,6 +1,6 @@
 ![Website](https://raw.githubusercontent.com/ersanyamarya/ersanyamarya/master/assets/images/header.png)
 
-[![Website](https://img.shields.io/website?label=THEEXUBERANTINDIAN&style=for-the-badge&url=https%3A%2F%2Fersanyamarya.com)](https://theexuberantindian.wordpress.com)
+![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=theexuberantindian.wordpress.com&logo=wordpress&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Ftheexuberantindian.wordpress.com%2F)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sanyamarya?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sanyamarya?ref_src=twsrc%5Etfw)
 
 ## Hi there, I'm Sanyam Arya 👋
