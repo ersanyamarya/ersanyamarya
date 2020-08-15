@@ -32,6 +32,11 @@
 ### [<img align="left" alt="codeSTACKr | YouTube" width="36" height="36px" src="https://cdn.svgporn.com/logos/youtube.svg" />][youtube] Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [VARIEGATION (IoT Based Home Automation System)](https://www.youtube.com/watch?v=aqu7Mfoba6Q)
+- [Standup Beatboxing and Fluteboxing - Sanyam Arya](https://www.youtube.com/watch?v=AGMojRdbJoQ)
+- [IR Remote Decoding with ARDUINO UNO](https://www.youtube.com/watch?v=29WJQADjh-o)
+- [Proximity Sensor (IR Photo Diode)](https://www.youtube.com/watch?v=wrP8w-Dmq_Y)
+- [Digital Combination Code Lock (Da Vinci's Cryptix)](https://www.youtube.com/watch?v=gE742w42ipk)
 <!-- YOUTUBE:END -->
 
 <br />
