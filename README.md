@@ -54,13 +54,15 @@ What you need to know about MQTIZER III - The free MQTT Client.
 <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/> 
 <br/>
-<img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Github%20Acions-%232088FF.svg?&style=for-the-badge&logo=github-actions&logoColor=white">
 <img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
 <br />
 <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-
+<br/>
+<img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
 <br/>
 <br/>
 
@@ -107,13 +109,13 @@ What you need to know about MQTIZER III - The free MQTT Client.
 
 ### Connect with me:
 
-[<img align="left" alt="ersanyamarya | YouTube" width="36px" height="36px" hspace="10" src="https://cdn.svgporn.com/logos/youtube.svg" />][youtube]
-[<img align="left" alt="ersanyamarya | Twitter" width="36px" height="36px" hspace="10" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ersanyamarya | LinkedIn" height="36px" hspace="10" src="https://cdn.svgporn.com/logos/linkedin.svg" />][linkedin]
-[<img align="left" alt="ersanyamarya | Instagram" width="36px" height="36px" hspace="10" src="https://cdn.svgporn.com/logos/instagram-icon.svg" />][instagram]
 
-<br />
-<br />
+[<img align="left" alt="ersanyamarya | Twitter" width="36px" height="36px" hspace="10" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+[<img align="left" alt="ersanyamarya | YouTube" width="36px" height="36px" hspace="10" src="https://cdn.svgporn.com/logos/youtube.svg" />][youtube]
+
+[<img align="left" alt="ersanyamarya | Instagram" width="36px" height="36px" hspace="10" src="https://cdn.svgporn.com/logos/instagram-icon.svg" />][instagram]
 
 [website]: https://theexuberantindian.wordpress.com/
 [twitter]: https://twitter.com/sanyamarya
