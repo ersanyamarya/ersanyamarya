@@ -61,8 +61,9 @@ What you need to know about MQTIZER III - The free MQTT Client.
 <br />
 <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+
 <br/>
+<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
@@ -90,6 +91,7 @@ What you need to know about MQTIZER III - The free MQTT Client.
 ### [<img align="left" alt="ersanyamarya | YouTube" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][youtube] =>
 
 <!-- BLOG-POST-LIST:START -->
+
 - [ABC of Collections in Python](https://medium.com/@er.sanyam.arya/abc-of-collections-in-python-f239d787a43e?source=rss-59ee199328e8------2)
 - [Revisiting the OSI Reference Model](https://medium.com/@er.sanyam.arya/revisiting-the-osi-reference-model-faa41b3360ff?source=rss-59ee199328e8------2)
 - [VARIEGATION (IoT Based Home Automation System)](https://medium.com/@er.sanyam.arya/variegation-iot-based-home-automation-system-6311b2541700?source=rss-59ee199328e8------2)
