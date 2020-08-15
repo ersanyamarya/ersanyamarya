@@ -78,11 +78,6 @@ What you need to know about MQTIZER III - The free MQTT Client.
 ### [<img align="left" alt="ersanyamarya | YouTube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube] =>
 
 <!-- YOUTUBE:START -->
-- [VARIEGATION (IoT Based Home Automation System)](https://www.youtube.com/watch?v=aqu7Mfoba6Q)
-- [Standup Beatboxing and Fluteboxing - Sanyam Arya](https://www.youtube.com/watch?v=AGMojRdbJoQ)
-- [IR Remote Decoding with ARDUINO UNO](https://www.youtube.com/watch?v=29WJQADjh-o)
-- [Proximity Sensor (IR Photo Diode)](https://www.youtube.com/watch?v=wrP8w-Dmq_Y)
-- [Digital Combination Code Lock (Da Vinci's Cryptix)](https://www.youtube.com/watch?v=gE742w42ipk)
 <!-- YOUTUBE:END -->
 
 <br />
@@ -90,27 +85,14 @@ What you need to know about MQTIZER III - The free MQTT Client.
 ### [<img align="left" alt="ersanyamarya | YouTube" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][youtube] =>
 
 <!-- BLOG-POST-LIST:START -->
-- [ABC of Collections in Python](https://medium.com/@er.sanyam.arya/abc-of-collections-in-python-f239d787a43e?source=rss-59ee199328e8------2)
-- [Revisiting the OSI Reference Model](https://medium.com/@er.sanyam.arya/revisiting-the-osi-reference-model-faa41b3360ff?source=rss-59ee199328e8------2)
-- [VARIEGATION (IoT Based Home Automation System)](https://medium.com/@er.sanyam.arya/variegation-iot-based-home-automation-system-6311b2541700?source=rss-59ee199328e8------2)
-- [How I explored WiFi with Linux accessories](https://medium.com/@er.sanyam.arya/how-i-explored-wifi-with-linux-accessories-92be184a6466?source=rss-59ee199328e8------2)
-- [To start with the IoT Architecture and Reference Model](https://medium.com/@er.sanyam.arya/to-start-with-the-iot-architecture-and-reference-model-98fd3d5496c3?source=rss-59ee199328e8------2)
 <!-- BLOG-POST-LIST:END -->
 
-<br />
 <br />
 
 ---
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4190](https://github.com//timburgan/timburgan/issues/4190) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
-2. 💪 Opened PR [#1](https://github.com//hsteindev/rumble/pull/1) in [hsteindev/rumble](https://github.com//hsteindev/rumble)
-3. ❌ Closed PR [#1](https://github.com//ersanyamarya/go-sitebuilder/pull/1) in [ersanyamarya/go-sitebuilder](https://github.com//ersanyamarya/go-sitebuilder)
-<!--END_SECTION:activity-->
-
-1.  ❗️ Opened issue [#4190](https://github.com//timburgan/timburgan/issues/4190) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
-2.  💪 Opened PR [#1](https://github.com//hsteindev/rumble/pull/1) in [hsteindev/rumble](https://github.com//hsteindev/rumble)
-    <!--END_SECTION:activity-->
+<br />
 
 [![Top Langs](https://github-readme-stats.ersanyamarya.vercel.app/api/top-langs/?username=ersanyamarya&layout=compact&hide=Roff)](https://github.com/ersanyamarya/github-readme-stats)
 
