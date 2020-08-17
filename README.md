@@ -102,9 +102,9 @@ What you need to know about MQTIZER III - The free MQTT Client.
 ---
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//trivago/rumble/pull/1) in [trivago/rumble](https://github.com//trivago/rumble)
-2. ❗️ Opened issue [#4190](https://github.com//timburgan/timburgan/issues/4190) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
-3. 💪 Opened PR [#1](https://github.com//hsteindev/rumble/pull/1) in [hsteindev/rumble](https://github.com//hsteindev/rumble)
+1. 🎉 Merged PR [#1](https://github.com//trivago/rumble/pull/1) in [trivago/rumble](https://github.com//trivago/rumble)
+2. 💪 Opened PR [#1](https://github.com//trivago/rumble/pull/1) in [trivago/rumble](https://github.com//trivago/rumble)
+3. ❗️ Opened issue [#4190](https://github.com//timburgan/timburgan/issues/4190) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
 <!--END_SECTION:activity-->
 1. ❗️ Opened issue [#4190](https://github.com//timburgan/timburgan/issues/4190) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
 2. 💪 Opened PR [#1](https://github.com//hsteindev/rumble/pull/1) in [hsteindev/rumble](https://github.com//hsteindev/rumble)
