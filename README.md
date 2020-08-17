@@ -102,11 +102,11 @@ What you need to know about MQTIZER III - The free MQTT Client.
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//trivago/rumble/pull/1) in [trivago/rumble](https://github.com//trivago/rumble)
-2. 💪 Opened PR [#1](https://github.com//trivago/rumble/pull/1) in [trivago/rumble](https://github.com//trivago/rumble)
-3. ❗️ Opened issue [#4190](https://github.com//timburgan/timburgan/issues/4190) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
-4. 💪 Opened PR [#1](https://github.com//hsteindev/rumble/pull/1) in [hsteindev/rumble](https://github.com//hsteindev/rumble)
-5. ❌ Closed PR [#1](https://github.com//ersanyamarya/go-sitebuilder/pull/1) in [ersanyamarya/go-sitebuilder](https://github.com//ersanyamarya/go-sitebuilder)
+1. 🎉 Merged PR [#3](https://github.com//ersanyamarya/shortest-distance/pull/3) in [ersanyamarya/shortest-distance](https://github.com//ersanyamarya/shortest-distance)
+2. 💪 Opened PR [#3](https://github.com//ersanyamarya/shortest-distance/pull/3) in [ersanyamarya/shortest-distance](https://github.com//ersanyamarya/shortest-distance)
+3. 🎉 Merged PR [#1](https://github.com//ersanyamarya/shortest-distance/pull/1) in [ersanyamarya/shortest-distance](https://github.com//ersanyamarya/shortest-distance)
+4. 🎉 Merged PR [#2](https://github.com//ersanyamarya/shortest-distance/pull/2) in [ersanyamarya/shortest-distance](https://github.com//ersanyamarya/shortest-distance)
+5. 💪 Opened PR [#2](https://github.com//ersanyamarya/shortest-distance/pull/2) in [ersanyamarya/shortest-distance](https://github.com//ersanyamarya/shortest-distance)
 <!--END_SECTION:activity-->
 
    <br />
