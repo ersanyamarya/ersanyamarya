@@ -102,11 +102,11 @@ What you need to know about MQTIZER III - The free MQTT Client.
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com//ersanyamarya/shortest-distance/pull/3) in [ersanyamarya/shortest-distance](https://github.com//ersanyamarya/shortest-distance)
-2. 💪 Opened PR [#3](https://github.com//ersanyamarya/shortest-distance/pull/3) in [ersanyamarya/shortest-distance](https://github.com//ersanyamarya/shortest-distance)
-3. 🎉 Merged PR [#1](https://github.com//ersanyamarya/shortest-distance/pull/1) in [ersanyamarya/shortest-distance](https://github.com//ersanyamarya/shortest-distance)
-4. 🎉 Merged PR [#2](https://github.com//ersanyamarya/shortest-distance/pull/2) in [ersanyamarya/shortest-distance](https://github.com//ersanyamarya/shortest-distance)
-5. 💪 Opened PR [#2](https://github.com//ersanyamarya/shortest-distance/pull/2) in [ersanyamarya/shortest-distance](https://github.com//ersanyamarya/shortest-distance)
+1. 🎉 Merged PR [#36](https://github.com//ersanyamarya/nodejs-typescript-boilerplate/pull/36) in [ersanyamarya/nodejs-typescript-boilerplate](https://github.com//ersanyamarya/nodejs-typescript-boilerplate)
+2. 🎉 Merged PR [#37](https://github.com//ersanyamarya/nodejs-typescript-boilerplate/pull/37) in [ersanyamarya/nodejs-typescript-boilerplate](https://github.com//ersanyamarya/nodejs-typescript-boilerplate)
+3. 🎉 Merged PR [#4](https://github.com//ersanyamarya/shortest-distance/pull/4) in [ersanyamarya/shortest-distance](https://github.com//ersanyamarya/shortest-distance)
+4. 🎉 Merged PR [#3](https://github.com//ersanyamarya/shortest-distance/pull/3) in [ersanyamarya/shortest-distance](https://github.com//ersanyamarya/shortest-distance)
+5. 💪 Opened PR [#3](https://github.com//ersanyamarya/shortest-distance/pull/3) in [ersanyamarya/shortest-distance](https://github.com//ersanyamarya/shortest-distance)
 <!--END_SECTION:activity-->
 
    <br />
