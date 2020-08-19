@@ -116,6 +116,12 @@
 * * *
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#8](https://github.com//ersanyamarya/time-pocket/pull/8) in [ersanyamarya/time-pocket](https://github.com//ersanyamarya/time-pocket)
+2. 💪 Opened PR [#8](https://github.com//ersanyamarya/time-pocket/pull/8) in [ersanyamarya/time-pocket](https://github.com//ersanyamarya/time-pocket)
+3. 🎉 Merged PR [#7](https://github.com//ersanyamarya/time-pocket/pull/7) in [ersanyamarya/time-pocket](https://github.com//ersanyamarya/time-pocket)
+4. 💪 Opened PR [#7](https://github.com//ersanyamarya/time-pocket/pull/7) in [ersanyamarya/time-pocket](https://github.com//ersanyamarya/time-pocket)
+5. 🎉 Merged PR [#6](https://github.com//ersanyamarya/time-pocket/pull/6) in [ersanyamarya/time-pocket](https://github.com//ersanyamarya/time-pocket)
+<!--END_SECTION:activity-->
 
 <br />
 
