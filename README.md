@@ -113,11 +113,11 @@
 * * *
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com//ersanyamarya/nodejs-typescript-boilerplate/pull/38) in [ersanyamarya/nodejs-typescript-boilerplate](https://github.com//ersanyamarya/nodejs-typescript-boilerplate)
-2. 🎉 Merged PR [#39](https://github.com//ersanyamarya/nodejs-typescript-boilerplate/pull/39) in [ersanyamarya/nodejs-typescript-boilerplate](https://github.com//ersanyamarya/nodejs-typescript-boilerplate)
-3. 🎉 Merged PR [#40](https://github.com//ersanyamarya/nodejs-typescript-boilerplate/pull/40) in [ersanyamarya/nodejs-typescript-boilerplate](https://github.com//ersanyamarya/nodejs-typescript-boilerplate)
-4. 🎉 Merged PR [#41](https://github.com//ersanyamarya/nodejs-typescript-boilerplate/pull/41) in [ersanyamarya/nodejs-typescript-boilerplate](https://github.com//ersanyamarya/nodejs-typescript-boilerplate)
-5. 🎉 Merged PR [#8](https://github.com//ersanyamarya/time-pocket/pull/8) in [ersanyamarya/time-pocket](https://github.com//ersanyamarya/time-pocket)
+1. 💪 Opened PR [#12](https://github.com//ersanyamarya/shortest-distance/pull/12) in [ersanyamarya/shortest-distance](https://github.com//ersanyamarya/shortest-distance)
+2. 🎉 Merged PR [#38](https://github.com//ersanyamarya/nodejs-typescript-boilerplate/pull/38) in [ersanyamarya/nodejs-typescript-boilerplate](https://github.com//ersanyamarya/nodejs-typescript-boilerplate)
+3. 🎉 Merged PR [#39](https://github.com//ersanyamarya/nodejs-typescript-boilerplate/pull/39) in [ersanyamarya/nodejs-typescript-boilerplate](https://github.com//ersanyamarya/nodejs-typescript-boilerplate)
+4. 🎉 Merged PR [#40](https://github.com//ersanyamarya/nodejs-typescript-boilerplate/pull/40) in [ersanyamarya/nodejs-typescript-boilerplate](https://github.com//ersanyamarya/nodejs-typescript-boilerplate)
+5. 🎉 Merged PR [#41](https://github.com//ersanyamarya/nodejs-typescript-boilerplate/pull/41) in [ersanyamarya/nodejs-typescript-boilerplate](https://github.com//ersanyamarya/nodejs-typescript-boilerplate)
 <!--END_SECTION:activity-->
 
 <br />
