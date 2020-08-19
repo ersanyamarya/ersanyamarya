@@ -22,8 +22,7 @@
 
 ## The latest version of MQTIZER -  The free MQTT Client
 
-<a href="https://www.linkedin.com/pulse/what-you-need-know-mqtizer-iii-free-mqttclient-sanyam-arya" />
-<h3>What you need to know about MQTIZER III - The free MQTT Client.</h3></a>
+<a href="https://www.linkedin.com/pulse/what-you-need-know-mqtizer-iii-free-mqttclient-sanyam-arya"/> What you need to know about MQTIZER III - The free MQTT Client. </a>
 
 </br>
 </br>
