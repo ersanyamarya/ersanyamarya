@@ -101,13 +101,12 @@
 ### [<img align="left" alt="ersanyamarya | YouTube" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][youtube]=>
 
 <!-- BLOG-POST-LIST:START -->
-
--   [ABC of Collections in Python](https://medium.com/@er.sanyam.arya/abc-of-collections-in-python-f239d787a43e?source=rss-59ee199328e8------2)
--   [Revisiting the OSI Reference Model](https://medium.com/@er.sanyam.arya/revisiting-the-osi-reference-model-faa41b3360ff?source=rss-59ee199328e8------2)
--   [VARIEGATION (IoT Based Home Automation System)](https://medium.com/@er.sanyam.arya/variegation-iot-based-home-automation-system-6311b2541700?source=rss-59ee199328e8------2)
--   [How I explored WiFi with Linux accessories](https://medium.com/@er.sanyam.arya/how-i-explored-wifi-with-linux-accessories-92be184a6466?source=rss-59ee199328e8------2)
--   [To start with the IoT Architecture and Reference Model](https://medium.com/@er.sanyam.arya/to-start-with-the-iot-architecture-and-reference-model-98fd3d5496c3?source=rss-59ee199328e8------2)
-    <!-- BLOG-POST-LIST:END -->
+- [ABC of Collections in Python](https://medium.com/@er.sanyam.arya/abc-of-collections-in-python-f239d787a43e?source=rss-59ee199328e8------2)
+- [Revisiting the OSI Reference Model](https://medium.com/@er.sanyam.arya/revisiting-the-osi-reference-model-faa41b3360ff?source=rss-59ee199328e8------2)
+- [VARIEGATION (IoT Based Home Automation System)](https://medium.com/@er.sanyam.arya/variegation-iot-based-home-automation-system-6311b2541700?source=rss-59ee199328e8------2)
+- [How I explored WiFi with Linux accessories](https://medium.com/@er.sanyam.arya/how-i-explored-wifi-with-linux-accessories-92be184a6466?source=rss-59ee199328e8------2)
+- [To start with the IoT Architecture and Reference Model](https://medium.com/@er.sanyam.arya/to-start-with-the-iot-architecture-and-reference-model-98fd3d5496c3?source=rss-59ee199328e8------2)
+<!-- BLOG-POST-LIST:END -->
 
 <br />
 
