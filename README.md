@@ -113,11 +113,11 @@
 * * *
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com//ersanyamarya/shortest-distance/pull/12) in [ersanyamarya/shortest-distance](https://github.com//ersanyamarya/shortest-distance)
-2. 💪 Opened PR [#13](https://github.com//ersanyamarya/shortest-distance/pull/13) in [ersanyamarya/shortest-distance](https://github.com//ersanyamarya/shortest-distance)
-3. 💪 Opened PR [#12](https://github.com//ersanyamarya/shortest-distance/pull/12) in [ersanyamarya/shortest-distance](https://github.com//ersanyamarya/shortest-distance)
-4. 🎉 Merged PR [#38](https://github.com//ersanyamarya/nodejs-typescript-boilerplate/pull/38) in [ersanyamarya/nodejs-typescript-boilerplate](https://github.com//ersanyamarya/nodejs-typescript-boilerplate)
-5. 🎉 Merged PR [#39](https://github.com//ersanyamarya/nodejs-typescript-boilerplate/pull/39) in [ersanyamarya/nodejs-typescript-boilerplate](https://github.com//ersanyamarya/nodejs-typescript-boilerplate)
+1. 🎉 Merged PR [#13](https://github.com//ersanyamarya/shortest-distance/pull/13) in [ersanyamarya/shortest-distance](https://github.com//ersanyamarya/shortest-distance)
+2. 🎉 Merged PR [#44](https://github.com//ersanyamarya/nodejs-typescript-boilerplate/pull/44) in [ersanyamarya/nodejs-typescript-boilerplate](https://github.com//ersanyamarya/nodejs-typescript-boilerplate)
+3. 🎉 Merged PR [#45](https://github.com//ersanyamarya/nodejs-typescript-boilerplate/pull/45) in [ersanyamarya/nodejs-typescript-boilerplate](https://github.com//ersanyamarya/nodejs-typescript-boilerplate)
+4. 🎉 Merged PR [#42](https://github.com//ersanyamarya/nodejs-typescript-boilerplate/pull/42) in [ersanyamarya/nodejs-typescript-boilerplate](https://github.com//ersanyamarya/nodejs-typescript-boilerplate)
+5. 🎉 Merged PR [#12](https://github.com//ersanyamarya/shortest-distance/pull/12) in [ersanyamarya/shortest-distance](https://github.com//ersanyamarya/shortest-distance)
 <!--END_SECTION:activity-->
 
 <br />
