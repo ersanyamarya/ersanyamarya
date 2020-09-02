@@ -113,11 +113,11 @@
 * * *
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#7](https://github.com//ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate/pull/7) in [ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate](https://github.com//ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate)
-2. ❌ Closed PR [#6](https://github.com//ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate/pull/6) in [ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate](https://github.com//ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate)
-3. ❌ Closed PR [#5](https://github.com//ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate/pull/5) in [ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate](https://github.com//ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate)
-4. ❌ Closed PR [#4](https://github.com//ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate/pull/4) in [ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate](https://github.com//ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate)
-5. ❌ Closed PR [#2](https://github.com//ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate/pull/2) in [ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate](https://github.com//ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate)
+1. 🎉 Merged PR [#8](https://github.com//ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate/pull/8) in [ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate](https://github.com//ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate)
+2. 🎉 Merged PR [#9](https://github.com//ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate/pull/9) in [ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate](https://github.com//ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate)
+3. 💪 Opened PR [#9](https://github.com//ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate/pull/9) in [ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate](https://github.com//ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate)
+4. ❌ Closed PR [#7](https://github.com//ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate/pull/7) in [ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate](https://github.com//ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate)
+5. ❌ Closed PR [#6](https://github.com//ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate/pull/6) in [ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate](https://github.com//ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate)
 <!--END_SECTION:activity-->
 
 <br />
