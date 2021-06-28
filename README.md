@@ -113,11 +113,11 @@
 * * *
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/ersanyamarya/time-pocket/pull/52) in [ersanyamarya/time-pocket](https://github.com/ersanyamarya/time-pocket)
-2. 🎉 Merged PR [#10](https://github.com/ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate/pull/10) in [ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate](https://github.com/ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate)
-3. 🎉 Merged PR [#11](https://github.com/ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate/pull/11) in [ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate](https://github.com/ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate)
-4. 🎉 Merged PR [#8](https://github.com/ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate/pull/8) in [ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate](https://github.com/ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate)
-5. 🎉 Merged PR [#9](https://github.com/ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate/pull/9) in [ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate](https://github.com/ersanyamarya/gatsby-typescript-tailwindcss-contentful-boilerplate)
+1. ❌ Closed PR [#195](https://github.com/ersanyamarya/time-pocket/pull/195) in [ersanyamarya/time-pocket](https://github.com/ersanyamarya/time-pocket)
+2. ❌ Closed PR [#194](https://github.com/ersanyamarya/time-pocket/pull/194) in [ersanyamarya/time-pocket](https://github.com/ersanyamarya/time-pocket)
+3. ❌ Closed PR [#193](https://github.com/ersanyamarya/time-pocket/pull/193) in [ersanyamarya/time-pocket](https://github.com/ersanyamarya/time-pocket)
+4. ❌ Closed PR [#188](https://github.com/ersanyamarya/time-pocket/pull/188) in [ersanyamarya/time-pocket](https://github.com/ersanyamarya/time-pocket)
+5. ❌ Closed PR [#187](https://github.com/ersanyamarya/time-pocket/pull/187) in [ersanyamarya/time-pocket](https://github.com/ersanyamarya/time-pocket)
 <!--END_SECTION:activity-->
 
 <br />
