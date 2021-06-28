@@ -131,10 +131,10 @@
 <!-- ### Connect with me: -->
 
 <p align="center">
-<img alt="ersanyamarya | LinkedIn" height="36px" hspace="10" src="https://cdn.svgporn.com/logos/linkedin.svg" />
-<img alt="ersanyamarya | Twitter" width="36px" height="36px" hspace="10" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img alt="ersanyamarya | YouTube" width="36px" height="36px" hspace="10" src="https://cdn.svgporn.com/logos/youtube.svg" />
-<img alt="ersanyamarya | Instagram" width="36px" height="36px" hspace="10" src="https://cdn.svgporn.com/logos/instagram-icon.svg" />
+<a href="https://www.linkedin.com/in/sanyam-arya"><img alt="ersanyamarya | LinkedIn" height="36px" hspace="10" src="https://cdn.svgporn.com/logos/linkedin.svg" /></a>
+<a href="https://twitter.com/sanyamarya"><img alt="ersanyamarya | Twitter" width="36px" height="36px" hspace="10" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://www.youtube.com/channel/UC0okncheoaqZp1UFmw9YEsA"><img alt="ersanyamarya | YouTube" width="36px" height="36px" hspace="10" src="https://cdn.svgporn.com/logos/youtube.svg" /></a>
+<a href="https://www.instagram.com/sanyamarya/"><img alt="ersanyamarya | Instagram" width="36px" height="36px" hspace="10" src="https://cdn.svgporn.com/logos/instagram-icon.svg" /></a>
 </p>
 
 [website]: https://theexuberantindian.wordpress.com/
