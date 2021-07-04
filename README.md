@@ -113,11 +113,11 @@
 * * *
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#195](https://github.com/ersanyamarya/time-pocket/pull/195) in [ersanyamarya/time-pocket](https://github.com/ersanyamarya/time-pocket)
-2. ❌ Closed PR [#194](https://github.com/ersanyamarya/time-pocket/pull/194) in [ersanyamarya/time-pocket](https://github.com/ersanyamarya/time-pocket)
-3. ❌ Closed PR [#193](https://github.com/ersanyamarya/time-pocket/pull/193) in [ersanyamarya/time-pocket](https://github.com/ersanyamarya/time-pocket)
-4. ❌ Closed PR [#188](https://github.com/ersanyamarya/time-pocket/pull/188) in [ersanyamarya/time-pocket](https://github.com/ersanyamarya/time-pocket)
-5. ❌ Closed PR [#187](https://github.com/ersanyamarya/time-pocket/pull/187) in [ersanyamarya/time-pocket](https://github.com/ersanyamarya/time-pocket)
+1. 🎉 Merged PR [#15](https://github.com/pines-and-electronics/interspecies-oracle-FE/pull/15) in [pines-and-electronics/interspecies-oracle-FE](https://github.com/pines-and-electronics/interspecies-oracle-FE)
+2. ❌ Closed PR [#195](https://github.com/ersanyamarya/time-pocket/pull/195) in [ersanyamarya/time-pocket](https://github.com/ersanyamarya/time-pocket)
+3. ❌ Closed PR [#194](https://github.com/ersanyamarya/time-pocket/pull/194) in [ersanyamarya/time-pocket](https://github.com/ersanyamarya/time-pocket)
+4. ❌ Closed PR [#193](https://github.com/ersanyamarya/time-pocket/pull/193) in [ersanyamarya/time-pocket](https://github.com/ersanyamarya/time-pocket)
+5. ❌ Closed PR [#188](https://github.com/ersanyamarya/time-pocket/pull/188) in [ersanyamarya/time-pocket](https://github.com/ersanyamarya/time-pocket)
 <!--END_SECTION:activity-->
 
 <br />
