@@ -114,10 +114,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#9623](https://github.com/influxdata/telegraf/issues/9623) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
-2. 💪 Opened PR [#9623](https://github.com/influxdata/telegraf/pull/9623) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
-3. 🎉 Merged PR [#15](https://github.com/pines-and-electronics/interspecies-oracle-FE/pull/15) in [pines-and-electronics/interspecies-oracle-FE](https://github.com/pines-and-electronics/interspecies-oracle-FE)
-4. ❌ Closed PR [#195](https://github.com/ersanyamarya/time-pocket/pull/195) in [ersanyamarya/time-pocket](https://github.com/ersanyamarya/time-pocket)
-5. ❌ Closed PR [#194](https://github.com/ersanyamarya/time-pocket/pull/194) in [ersanyamarya/time-pocket](https://github.com/ersanyamarya/time-pocket)
+2. 🗣 Commented on [#9623](https://github.com/influxdata/telegraf/issues/9623) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
+3. 💪 Opened PR [#9623](https://github.com/influxdata/telegraf/pull/9623) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
+4. 🎉 Merged PR [#15](https://github.com/pines-and-electronics/interspecies-oracle-FE/pull/15) in [pines-and-electronics/interspecies-oracle-FE](https://github.com/pines-and-electronics/interspecies-oracle-FE)
+5. ❌ Closed PR [#195](https://github.com/ersanyamarya/time-pocket/pull/195) in [ersanyamarya/time-pocket](https://github.com/ersanyamarya/time-pocket)
 <!--END_SECTION:activity-->
 
 <br />
