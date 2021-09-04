@@ -113,11 +113,11 @@
 * * *
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#131](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate/pull/131) in [ersanyamarya/nodejs-typescript-graphql-koa-boilerplate](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate)
-2. 🎉 Merged PR [#134](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate/pull/134) in [ersanyamarya/nodejs-typescript-graphql-koa-boilerplate](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate)
-3. 🎉 Merged PR [#141](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate/pull/141) in [ersanyamarya/nodejs-typescript-graphql-koa-boilerplate](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate)
-4. 🎉 Merged PR [#139](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate/pull/139) in [ersanyamarya/nodejs-typescript-graphql-koa-boilerplate](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate)
-5. 🎉 Merged PR [#130](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate/pull/130) in [ersanyamarya/nodejs-typescript-graphql-koa-boilerplate](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate)
+1. ❌ Closed PR [#138](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate/pull/138) in [ersanyamarya/nodejs-typescript-graphql-koa-boilerplate](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate)
+2. ❌ Closed PR [#131](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate/pull/131) in [ersanyamarya/nodejs-typescript-graphql-koa-boilerplate](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate)
+3. 🎉 Merged PR [#134](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate/pull/134) in [ersanyamarya/nodejs-typescript-graphql-koa-boilerplate](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate)
+4. 🎉 Merged PR [#141](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate/pull/141) in [ersanyamarya/nodejs-typescript-graphql-koa-boilerplate](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate)
+5. 🎉 Merged PR [#139](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate/pull/139) in [ersanyamarya/nodejs-typescript-graphql-koa-boilerplate](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate)
 <!--END_SECTION:activity-->
 
 <br />
