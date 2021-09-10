@@ -114,10 +114,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#9623](https://github.com/influxdata/telegraf/issues/9623) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
-2. ❌ Closed PR [#149](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate/pull/149) in [ersanyamarya/nodejs-typescript-graphql-koa-boilerplate](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate)
-3. ❌ Closed PR [#151](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate/pull/151) in [ersanyamarya/nodejs-typescript-graphql-koa-boilerplate](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate)
-4. ❌ Closed PR [#152](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate/pull/152) in [ersanyamarya/nodejs-typescript-graphql-koa-boilerplate](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate)
-5. ❌ Closed PR [#153](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate/pull/153) in [ersanyamarya/nodejs-typescript-graphql-koa-boilerplate](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate)
+2. 🗣 Commented on [#9623](https://github.com/influxdata/telegraf/issues/9623) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
+3. ❌ Closed PR [#149](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate/pull/149) in [ersanyamarya/nodejs-typescript-graphql-koa-boilerplate](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate)
+4. ❌ Closed PR [#151](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate/pull/151) in [ersanyamarya/nodejs-typescript-graphql-koa-boilerplate](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate)
+5. ❌ Closed PR [#152](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate/pull/152) in [ersanyamarya/nodejs-typescript-graphql-koa-boilerplate](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate)
 <!--END_SECTION:activity-->
 
 <br />
