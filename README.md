@@ -113,8 +113,8 @@
 * * *
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9931](https://github.com/influxdata/telegraf/issues/9931) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
-2. 🗣 Commented on [#9623](https://github.com/influxdata/telegraf/issues/9623) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
+1. 💪 Opened PR [#9957](https://github.com/influxdata/telegraf/pull/9957) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
+2. 🗣 Commented on [#9931](https://github.com/influxdata/telegraf/issues/9931) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
 3. 🗣 Commented on [#9623](https://github.com/influxdata/telegraf/issues/9623) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
 4. 🗣 Commented on [#9623](https://github.com/influxdata/telegraf/issues/9623) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
 5. 🗣 Commented on [#9623](https://github.com/influxdata/telegraf/issues/9623) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
