@@ -113,11 +113,11 @@
 * * *
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9957](https://github.com/influxdata/telegraf/pull/9957) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
-2. 🗣 Commented on [#9931](https://github.com/influxdata/telegraf/issues/9931) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
-3. 🗣 Commented on [#9623](https://github.com/influxdata/telegraf/issues/9623) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
-4. 🗣 Commented on [#9623](https://github.com/influxdata/telegraf/issues/9623) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
-5. 🗣 Commented on [#9623](https://github.com/influxdata/telegraf/issues/9623) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
+1. ❌ Closed PR [#238](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate/pull/238) in [ersanyamarya/nodejs-typescript-graphql-koa-boilerplate](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate)
+2. ❌ Closed PR [#237](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate/pull/237) in [ersanyamarya/nodejs-typescript-graphql-koa-boilerplate](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate)
+3. ❌ Closed PR [#234](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate/pull/234) in [ersanyamarya/nodejs-typescript-graphql-koa-boilerplate](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate)
+4. ❌ Closed PR [#233](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate/pull/233) in [ersanyamarya/nodejs-typescript-graphql-koa-boilerplate](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate)
+5. ❌ Closed PR [#232](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate/pull/232) in [ersanyamarya/nodejs-typescript-graphql-koa-boilerplate](https://github.com/ersanyamarya/nodejs-typescript-graphql-koa-boilerplate)
 <!--END_SECTION:activity-->
 
 <br />
