@@ -94,14 +94,19 @@
 - [Revisiting the OSI Reference Model](https://medium.com/@er.sanyam.arya/revisiting-the-osi-reference-model-faa41b3360ff?source=rss-59ee199328e8------2)
 - [VARIEGATION &lpar;IoT Based Home Automation System&rpar;](https://medium.com/@er.sanyam.arya/variegation-iot-based-home-automation-system-6311b2541700?source=rss-59ee199328e8------2)
 - [How I explored WiFi with Linux accessories](https://medium.com/@er.sanyam.arya/how-i-explored-wifi-with-linux-accessories-92be184a6466?source=rss-59ee199328e8------2)
-- [To start with the IoT Architecture and Reference Model](https://medium.com/@er.sanyam.arya/to-start-with-the-iot-architecture-and-reference-model-98fd3d5496c3?source=rss-59ee
-
-199328e8------2)
+- [To start with the IoT Architecture and Reference Model](https://medium.com/@er.sanyam.arya/to-start-with-the-iot-architecture-and-reference-model-98fd3d5496c3?source=rss-59ee199328e8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
 
 * * *
+[![Sanyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ersanyamarya)](https://github.com/ersanyamarya/github-readme-stats)
+
+* * * 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ersanyamarya&theme=earth&hide_border=true&border_radius=4&card_width=1024)](https://git.io/streak-stats)
+
+***
 
 
 <p align="center">
