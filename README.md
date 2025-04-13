@@ -49,12 +49,12 @@
 
 ### Featured Projects
 
-- **[MQTIZER](https://play.google.com/store/apps/details?id=com.sanyamarya.mqtizermqtt_client&hl=en_US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1):** Cross-Platform MQTT Client for IoT (50k+ downloads). _(Flutter, Dart, Node.js, MongoDB)_
-- **VisionarAI:** AI-driven tool for digital product assessment. _(Flutter, Node.js, TypeScript, MongoDB, LangChain)_
-- **Commit GPT:** VS Code extension for AI-powered commit message generation. _(OpenAI GPT)_
-- **NPM Packages:** Open-source libraries like Notion Plus (ORM), Time Pocket (Utilities), Markdowner CLI. _(JavaScript, TypeScript)_
-- **Terraform Modules:** Reusable IaC modules for AWS (EC2 Server Stack, Cloudfront Stack). _(AWS, Terraform)_
-- **Internet Speed Test:** Telegraf plugin for network performance monitoring. _(Go, Telegraf)_
+- **[MQTIZER](https://mqtizer.com):** Cross-Platform MQTT Client for IoT (50k+ downloads). _(Flutter, Dart, Node.js, MongoDB)_
+- **[VisionarAI](https://www.behance.net/gallery/178580111/VisionarAI-Web-Application'):** AI-driven tool for digital product assessment. _(Flutter, Node.js, TypeScript, MongoDB, LangChain)_
+- **[Commit GPT](https://marketplace.visualstudio.com/items?itemName=ersanyamarya.commit-gpt):** VS Code extension for AI-powered commit message generation. _(OpenAI GPT)_
+- **[NPM Packages](https://www.npmjs.com/search?q=@ersanyamarya):** Open-source libraries like Notion Plus (ORM), Time Pocket (Utilities), Markdowner CLI. _(JavaScript, TypeScript)_
+- **[Terraform Modules](https://registry.terraform.io/namespaces/ersanyamarya):** Reusable IaC modules for AWS (EC2 Server Stack, Cloudfront Stack). _(AWS, Terraform)_
+- **[Internet Speed Test](https://github.com/influxdata/telegraf/blob/release-1.33/plugins/inputs/internet_speed/README.md):** Telegraf plugin for network performance monitoring. _(Go, Telegraf)_
 
 ---
 
