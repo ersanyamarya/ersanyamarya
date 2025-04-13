@@ -1,6 +1,8 @@
 ![Website](https://raw.githubusercontent.com/ersanyamarya/ersanyamarya/master/assets/images/header.png)
 
-<h1 align="center">Hey there, I'm Sanyam Arya! 👋</h1>
+<h1 align="center">Hey there, I'm 
+<a href="https://sanyamarya.com/">Sanyam Arya!</a>
+ 👋</h1>
 
 <p align="center">
   <b>Cloud Architect at PROTH!NX, Berlin</b><br>
