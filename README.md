@@ -28,7 +28,7 @@
 ### About Me
 
 - 🔭 **Current Role:** Cloud Architect at PROTH!NX, Berlin
-- 🌱 **Learning:** GoLang and Dart/Flutter _(See What I'm Up To!)_
+- 🌱 **Learning:** GoLang and Dart/Flutter
 - 👯 **Collaborate:** Open-source projects, web development, software development, IoT, Cloud Architecture
 - 💬 **Ask Me About:** NodeJS, React, TypeScript, Go, MongoDB, AWS, Azure, GCP, Terraform, Docker, Kubernetes
 - 📫 **Contact:** `er.sanyam.arya@gmail.com`
@@ -39,22 +39,11 @@
 
 ### Work Experience
 
-- **IoT Cloud Architect** @ [PROTH!NX](https://prothinx.com/), Berlin _(Sep 2024 - Present)_
-- **Co-Founder & CTO** @ [beeta.one](https://beeta.one/), Berlin _(Sep 2023 - Present)_
-- **Head of Engineering** @ [weeve GMBH](https://weeve.io/), Berlin _(Nov 2020 - Jul 2023)_
-- **Software Engineer** @ [trivago](https://www.trivago.com/), Dusseldorf _(Feb 2020 - Oct 2020)_
-- **Software Developer** @ [AFour Technologies](https://afourtech.com/), Pune _(Aug 2017 - Nov 2019)_
-
----
-
-### Latest Version of MQTIZER - The Free MQTT Client
-
-<p align="center">
-  <a href='https://play.google.com/store/apps/details?id=com.sanyamarya.mqtizermqtt_client&hl=en_US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
-    <img alt='MQTIZER' src='https://raw.githubusercontent.com/ersanyamarya/ersanyamarya/master/assets/images/mqtizer.png' width="250px"/>
-    <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="200px"/>
-  </a>
-</p>
+- **IoT Cloud Architect** @[PROTH!NX](https://prothinx.io/), Berlin _(Sep 2024 - Present)_
+- **Co-Founder & CTO** @[beeta.one](https://beeta.one/), Berlin _(July 2023 - Present)_
+- **Head of Engineering** @weeve GMBH, Berlin _(Nov 2020 - Jul 2023)_
+- **Software Engineer** @[trivago](https://www.trivago.com/), Dusseldorf _(Feb 2020 - Oct 2020)_
+- **Software Developer** @[AFour Technologies](https://afourtech.com/), Pune _(Aug 2017 - Nov 2019)_
 
 ---
 
@@ -77,8 +66,8 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/go" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/flutter" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/amazonaws" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftazure" />
+  <img height="32" width="32" src="https://cdn.svgporn.com/logos/aws-elastic-beanstalk.svg" />
+  <img height="32" width="32" src="https://cdn.svgporn.com/logos/microsoft-azure.svg" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/googlecloud" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/terraform" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/docker" />
@@ -86,7 +75,7 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/arduino" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/figma" />
+  <img height="32" width="32" src="https://cdn.svgporn.com/logos/figma.svg" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/nginx" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" />
 </p>
