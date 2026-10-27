@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Sanyam Arya, AI-native engineering leader, IoT and cloud architect, Berlin" src="https://raw.githubusercontent.com/ersanyamarya/ersanyamarya/master/assets/images/header.svg" width="100%" />
+  <img alt="Sanyam Arya, AI-native engineering leader, IoT and cloud architect, Berlin" src="assets/images/header.svg" width="100%" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img alt="Shipped projects" src="https://raw.githubusercontent.com/ersanyamarya/ersanyamarya/master/assets/images/projects.svg" width="100%" />
+  <img alt="Shipped projects" src="assets/images/projects.svg" width="100%" />
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img alt="On the workbench: DeskMate, WeMove, Agentry Labs, Gentleman's Stack" src="https://raw.githubusercontent.com/ersanyamarya/ersanyamarya/master/assets/images/workbench.svg" width="100%" />
+  <img alt="On the workbench: DeskMate, WeMove, Agentry Labs, Gentleman's Stack" src="assets/images/workbench.svg" width="100%" />
 </p>
 
 <p align="center">
