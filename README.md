@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Sanyam Arya, AI-native engineering leader, IoT and cloud architect, Berlin" src="assets/images/header.svg" width="100%" />
+  <img alt="Sanyam Arya, AI-native engineering leader, IoT and cloud architect, Berlin" src="assets/images/banner.svg" width="100%" />
 </p>
 
 <p align="center">
